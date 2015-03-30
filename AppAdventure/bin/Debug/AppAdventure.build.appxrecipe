@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>CHRISTY</Machine>
+    <WindowsUser>Zeroc</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\bin\Debug\AppAdventure.exe">
+      <PackagePath>AppAdventure.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\bin\Debug\AppAdventure.pdb">
+      <PackagePath>AppAdventure.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\MonoGame.Framework.Windows8.dll">
+      <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.xml">
+      <PackagePath>SharpDX.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct2D1.xml">
+      <PackagePath>SharpDX.Direct2D1.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.Direct3D11.xml">
+      <PackagePath>SharpDX.Direct3D11.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.MediaFoundation.xml">
+      <PackagePath>SharpDX.MediaFoundation.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XAudio2.xml">
+      <PackagePath>SharpDX.XAudio2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.DXGI.xml">
+      <PackagePath>SharpDX.DXGI.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MSBuild\..\MonoGame\v3.0\Assemblies\Windows8\SharpDX.XInput.xml">
+      <PackagePath>SharpDX.XInput.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Background.png">
+      <PackagePath>Assets\Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Buttons\CreditsButton.png">
+      <PackagePath>Assets\Buttons\CreditsButton.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Buttons\easyUse.png">
+      <PackagePath>Assets\Buttons\easyUse.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Buttons\fluidUI.png">
+      <PackagePath>Assets\Buttons\fluidUI.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Buttons\goodCode.png">
+      <PackagePath>Assets\Buttons\goodCode.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Buttons\innovate.png">
+      <PackagePath>Assets\Buttons\innovate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Buttons\StartGame.png">
+      <PackagePath>Assets\Buttons\StartGame.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\Glitch.png">
+      <PackagePath>Assets\Characters\Glitch.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\HubTile.png">
+      <PackagePath>Assets\Characters\HubTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\messageTile.png">
+      <PackagePath>Assets\Characters\messageTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\NeumannReels.png">
+      <PackagePath>Assets\Characters\NeumannReels.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\newsTile.png">
+      <PackagePath>Assets\Characters\newsTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\Pixel Suit.png">
+      <PackagePath>Assets\Characters\Pixel Suit.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\PixelGirlReel.png">
+      <PackagePath>Assets\Characters\PixelGirlReel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\PixelSuitReel.png">
+      <PackagePath>Assets\Characters\PixelSuitReel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\storeTile.png">
+      <PackagePath>Assets\Characters\storeTile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\Van Neumman.png">
+      <PackagePath>Assets\Characters\Van Neumman.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\Visio The Stud.png">
+      <PackagePath>Assets\Characters\Visio The Stud.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Characters\VisioReel.png">
+      <PackagePath>Assets\Characters\VisioReel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Credits.png">
+      <PackagePath>Assets\Credits.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\GameOver.png">
+      <PackagePath>Assets\GameOver.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\HealthBar2.png">
+      <PackagePath>Assets\HealthBar2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\HowTo.png">
+      <PackagePath>Assets\HowTo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\hud 2.png">
+      <PackagePath>Assets\hud 2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\Story.png">
+      <PackagePath>Assets\Story.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\VS1.png">
+      <PackagePath>Assets\VS1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\VS2.png">
+      <PackagePath>Assets\VS2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\VS3.png">
+      <PackagePath>Assets\VS3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\Assets\WinScreen.png">
+      <PackagePath>Assets\WinScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Zeroc\Documents\Visual Studio 2012\Projects\AppAdventure\AppAdventure\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
